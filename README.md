@@ -52,6 +52,7 @@ lua test.lua
 ```
 
 * 記憶體使用量分析
+
 使用記憶體量為93.4KB，遠大於原先的Excel檔案(64KB)。
 
  ![](Images/Method1.png)
@@ -287,6 +288,7 @@ lua test.lua
 ```
 
 * 記憶體使用量分析
+
 使用記憶體量為47.5KB，相較於原先的Excel檔案(64KB)，壓縮率約為74.22%。相較於方法一的LuaTable.lua檔，僅約占一半的記憶體空間。
 
  ![](Images/Method2.png)
